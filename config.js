@@ -38,12 +38,12 @@ global.thumb = fs.readFileSync("./src/papah2.jpg")
 global.profil = fs.readFileSync("./src/papah.png")
 global.zippy = (await import('./lib/zippy.cjs')).zippy
 global.tiny = (await import('./lib/tiny.cjs')).default
-global.gc = "https://chat.whatsapp.com/KYIzgolOI1I66efv9UMfch"
-global.gh = "https://github.com/FahriAdison"
-global.yt = "https://bit.ly/Papah-Chan"
-global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
+global.gc = "https://chat.whatsapp.com/-"
+global.gh = "https://github.com/Ziyan-Forger"
+global.yt = "https://bit.ly/Zynn-XD"
+global.wm = '                「 ʀʏᴜ BOT あ⁩ 」' 
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴢʏɴɴ - xᴅ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ʀʏᴜ 𝗕𝗢𝗧'
 function ucapan() {
 	var time = moment.tz('Asia/Jakarta').format('HH')
 	var res
@@ -118,10 +118,10 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-	//  ['6281234288573'],
+	//  ['𝟼𝟸𝟾𝟻𝟽𝟷𝟺𝟶𝟻𝟼𝟷𝟹𝟹'],
 	//['12546153210'],
-	['62895612153565', 'Johannes', true],
-	['6282287219167', 'Papah-Chan', true]
+	['𝟼𝟸𝟾𝟻𝟽𝟷𝟺𝟶𝟻𝟼𝟷𝟹𝟹', 'ᴢʏɴ-xᴅ ', true],
+	['𝟼𝟸𝟾𝟻𝟽𝟷𝟺𝟶𝟻𝟼𝟷𝟹𝟹', 'ᴢʏɴ-xᴅ', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -142,21 +142,21 @@ global.APIKeys = { // APIKey Here
 global.packname = ''
 global.author = ''
 
-global.sgc = 'https://chat.whatsapp.com/Eo0rT2MCSiWIijy7fMHlB7'
-global.sig = 'https://instagram.com/bot_whangsaf'
+global.sgc = 'https://chat.whatsapp.com/-'
+global.sig = 'https://instagram.com/ᴢʏɴɴᴘᴇᴛᴏᴛ'
 //========Url Template Buttons=========//
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/bot_whangsaf"
+global.urlnya = "https://www.instagram.com/ᴢʏɴɴᴘᴇᴛᴏᴛ"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-8721-9167'
+global.phn = '+62 𝟾𝟻𝟽-𝟷𝟺𝟶𝟻-𝟼𝟷𝟹𝟹'
 global.multiplier = 69 // The higher, The harder levelup
 /*============== NOMOR ==============*/
-global.nomorbot = '66801944580'
-global.nomorown = '6282287219167'
-global.namebot = 'Sad-Bot'
-global.nameown = 'Papah-Chan'
+global.nomorbot = '𝟼𝟸𝟾𝟻𝟼𝟿𝟻𝟿𝟻𝟸𝟻𝟽𝟻'
+global.nomorown = '𝟼𝟸𝟾𝟻𝟽𝟷𝟺𝟶𝟻𝟼𝟷𝟹𝟹'
+global.namebot = 'ʀʏᴜ-ʙᴏᴛ'
+global.nameown = 'ᴢʏɴ-xᴅ'
 global.thumb2 = fs.readFileSync('./papah.jpg')
 
 /*=========== FAKE SIZE ===========*/
